@@ -26,3 +26,6 @@ Este é um simples programa em JavaScript que determina o nível de um herói co
 - Incorporação de mais opções de validação de entrada.
 
 
+
+
+

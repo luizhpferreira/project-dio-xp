@@ -19,9 +19,5 @@ Este é um simples programa em JavaScript que determina o nível de um herói co
 3. **Visualização:**
    - O programa exibirá a mensagem indicando o nome do herói e seu respectivo nível com base na XP fornecida.
 
-## Melhorias Possíveis
 
-- Adição de loops para processar informações de vários heróis.
-- Implementação de uma interface de usuário mais interativa.
-- Incorporação de mais opções de validação de entrada.
 

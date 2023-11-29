@@ -23,9 +23,13 @@ Este é um simples programa em JavaScript que determina o nível de um herói co
 
 - Adição de loops para processar informações de vários heróis.
 - Implementação de uma interface de usuário mais interativa.
+<<<<<<< Updated upstream
 - Incorporação de mais opções de validação de entrada.
 
 
 
 
 
+=======
+- Incorporação de mais opções de validação de entrada.
+>>>>>>> Stashed changes
